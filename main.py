@@ -1,5 +1,7 @@
+from homework1.solution import solve_homework1
+
 def main():
-    print("Hello from mlzoomcamp2025!")
+    solve_homework1()
 
 
 if __name__ == "__main__":
